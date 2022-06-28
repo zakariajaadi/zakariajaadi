@@ -26,9 +26,7 @@
 **About me** <br/>
 
 I'm a Data Scientist from Paris 
-- 💼 I’m currently working as a Data Scientist & ML engineer consultant in Paris
-- 🌱 I work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions
-- 💞️ My role consists of buliding data science & AI models to optimize revenue generation, answer business questions, and solve complex problems.
+- 💼 I’m currently working as a Data Scientist & ML engineer consultant in Paris, and I bulid data science & AI models to optimize revenue generation, answer business questions, and solve complex problems.
 
 **Projects in this protfolio:**
 * [Image classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
