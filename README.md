@@ -31,7 +31,7 @@ I'm a Data Scientist from Paris
 - 💞️ My role consists of buliding data science & AI models to optimize revenue generation, answer business questions, and solve complex problems.
 
 **Projects in this protfolio:**
-* [Link text Here](https://link-url-here.org)
+* [Image classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
 <!---
 zakariajaadi/zakariajaadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
