@@ -29,6 +29,11 @@
 **Projects in this protfolio:**
 * [Image binary classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
 * [ LVMH Stock's opening price forecasting using LSTM on a multivariate time series](https://github.com/zakariajaadi/image-classification)
+
+**Check out my articles** 
+* [When and Why to Standardize Your Data?](https://builtin.com/data-science/when-and-why-standardize-your-data)
+* [A Step-by-Step Explanation of Principal Component Analysis](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+
 <!---
 zakariajaadi/zakariajaadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
