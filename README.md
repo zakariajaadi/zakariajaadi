@@ -30,6 +30,8 @@ I'm a Data Scientist from Paris
 - 🌱 I work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions
 - 💞️ My role consists of buliding data science & AI models to optimize revenue generation, answer business questions, and solve complex problems.
 
+**Projects in this protfolio:**
+* [Link text Here](https://link-url-here.org)
 <!---
 zakariajaadi/zakariajaadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
