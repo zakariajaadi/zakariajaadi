@@ -27,7 +27,7 @@
  💼 I’m currently working as a Data Scientist & ML engineer consultant in Paris, and I bulid data science & AI models to optimize revenue generation, answer business questions, and solve complex problems.
 
 **Projects in this protfolio:**
-* [Image classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
+* [Image binary classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
 <!---
 zakariajaadi/zakariajaadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
