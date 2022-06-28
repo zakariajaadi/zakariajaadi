@@ -23,7 +23,7 @@
   Welcome to my github portfolio ! I publish End to End Data Science & AI projects 
 </h2>
 
-**About me** <br/>
+**About me** <br/> <br/>
  💼 I’m currently working as a Data Scientist & ML engineer consultant in Paris, and I bulid data science & AI models to optimize revenue generation, answer business questions, and solve complex problems.
 
 **Projects in this protfolio:**
