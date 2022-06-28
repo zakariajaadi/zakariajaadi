@@ -23,10 +23,11 @@
   Welcome to my github portfolio ! I publish End to End Data Science & AI projects 
 </h2>
 
-**About me** <br/> <br/>
+<h3>About me:</h3>
+
  💼 I’m currently working as a Data Scientist & ML engineer consultant in Paris, and I bulid data science & AI models to optimize revenue generation, answer business questions, and solve complex problems.
 
-<h3>Projects in this protfolio:</h3>
+<h3>Projects in this portfolio:</h3>
 
 * [Image binary classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
 * [ LVMH Stock's opening price forecasting using LSTM on a multivariate time series](https://github.com/zakariajaadi/image-classification)
