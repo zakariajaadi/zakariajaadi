@@ -20,7 +20,7 @@
 <h2 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> <br/><br/>
-  Welcome to my github portoflio ! I publish End to End Data Science & AI projects 
+  Welcome to my github portfolio ! I publish End to End Data Science & AI projects 
 </h2>
 
 **About me** <br/>
