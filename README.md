@@ -29,9 +29,22 @@
 
 <h3>Projects in this portfolio:</h3>
 
-* [ Data drift detection with deepchecks ](https://colab.research.google.com/drive/1qTZZ5MfLdPtymM9s2u-7qp0G61fcR_d6?usp=sharing)
-* [Image binary classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
+<h4>Optimization :</h4>
+
+* Gradient descent algorithm
+
+<h4>Model monitoring :</h4>
+
+* [ Notebook : Data drift detection with deepchecks ](https://colab.research.google.com/drive/1qTZZ5MfLdPtymM9s2u-7qp0G61fcR_d6?usp=sharing)
+
+<h4> Time series forcasting :</h4>
+
 * [ LVMH Stock's opening price forecasting using LSTM on a multivariate time series](https://github.com/zakariajaadi/image-classification)
+
+<h4> Neural networks :</h4>
+
+* [Image binary classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
+
 
 <h3>Check out my latest articles:</h3>
 
