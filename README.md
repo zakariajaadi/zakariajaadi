@@ -28,7 +28,7 @@
  💼 I’m currently working as a Data Scientist & ML engineer consultant in Paris, and I bulid data science & AI models to optimize revenue generation, answer business questions, and solve complex problems.
 
 <h3>Projects in this portfolio:</h3>
-
+* Data Drift Detection with deepchecks (https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Data%20Drift%20Detection%20With%20DeepCheck.ipynb)
 * [Image binary classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
 * [ LVMH Stock's opening price forecasting using LSTM on a multivariate time series](https://github.com/zakariajaadi/image-classification)
 
