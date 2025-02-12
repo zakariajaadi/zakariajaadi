@@ -29,7 +29,7 @@ Welcome to my data science portfolio! This repository showcases my work in data 
 
 * [Gradient Descent algorithm notebook](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb) (Opens in Colab)
 
-<h4>Stats :</h4>
+<h4>Statistics :</h4>
 
 * [Student's t-test Hypothesis Testing with Scipy](https://github.com/zakariajaadi/data-science-portofolio/blob/a77772b138f858d2ad1ae97fb6f557d7d10b494b/Student's%20t-test%20Hypothesis%20Testing%20with%20Scipy.ipynb)
 
