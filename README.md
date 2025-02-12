@@ -46,7 +46,7 @@ Welcome to my data science portfolio! This repository showcases my work in data 
 <h3>Check out my latest articles:</h3>
 
 * [A Step-by-Step Explanation of Principal Component Analysis](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
-* [Not all correlations are what they seem](https://medium.com/towards-data-science/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8)
+* [Using Hypothesis Testing to Evaluate Correlation Significance](https://medium.com/towards-data-science/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8)
 * [When and Why to Standardize Your Data](https://builtin.com/data-science/when-and-why-standardize-your-data)
  
 
