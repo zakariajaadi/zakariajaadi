@@ -19,7 +19,9 @@
 
 <h3>About me:</h3>
 
- 💼 I’m currently working as a Data Scientist & ML engineer consultant in Paris, and I bulid data science & AI models to optimize revenue generation, answer business questions, and solve complex problems.
+Welcome to my data science portfolio! This repository showcases my work in data science, machine learning, and MLOps. You'll find Jupyter notebooks and projects demonstrating various techniques, analyses, and real-world applications.
+
+
 
 <h3>Projects in this portfolio:</h3>
 
