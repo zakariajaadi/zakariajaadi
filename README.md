@@ -45,8 +45,10 @@ Welcome to my data science portfolio! This repository showcases my work in data 
 
 <h3>Check out my latest articles:</h3>
 
-* [When and Why to Standardize Your Data?](https://builtin.com/data-science/when-and-why-standardize-your-data)
 * [A Step-by-Step Explanation of Principal Component Analysis](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+* [When and Why to Standardize Your Data?](https://builtin.com/data-science/when-and-why-standardize-your-data)
+
+
 
 <!---
 zakariajaadi/zakariajaadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
