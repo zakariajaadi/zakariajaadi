@@ -31,7 +31,7 @@
 
 <h4>Optimization :</h4>
 
-* Gradient descent algorithm
+* [Gradient Descent algorithm ](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb)
 
 <h4>Model monitoring :</h4>
 
