@@ -35,7 +35,7 @@
 
 <h4>Model monitoring :</h4>
 
-* [Data drift detection with deepchecks notebook ](https://colab.research.google.com/drive/1qTZZ5MfLdPtymM9s2u-7qp0G61fcR_d6?usp=sharing) (Opens in Colab)
+* [Data drift detection with deepchecks notebook ](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Data%20Drift%20Detection%20With%20DeepCheck.ipynb) (Opens in Colab)
 
 
 <h4> Time series forcasting :</h4>
