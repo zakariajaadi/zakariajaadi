@@ -31,11 +31,12 @@
 
 <h4>Optimization :</h4>
 
-* [Gradient Descent algorithm ](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb)
+* [Gradient Descent algorithm notebook](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb) (Opens in Colab)
 
 <h4>Model monitoring :</h4>
 
-* [ Notebook : Data drift detection with deepchecks ](https://colab.research.google.com/drive/1qTZZ5MfLdPtymM9s2u-7qp0G61fcR_d6?usp=sharing)
+* [Data drift detection with deepchecks notebook ](https://colab.research.google.com/drive/1qTZZ5MfLdPtymM9s2u-7qp0G61fcR_d6?usp=sharing) (Opens in Colab)
+
 
 <h4> Time series forcasting :</h4>
 
