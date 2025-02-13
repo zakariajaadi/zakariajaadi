@@ -32,19 +32,21 @@ Welcome to my data science portfolio! This repository showcases my work in data 
 <h4>Statistics :</h4>
 
 * [Student's t-test Hypothesis Testing with Scipy](https://github.com/zakariajaadi/data-science-portofolio/blob/a77772b138f858d2ad1ae97fb6f557d7d10b494b/Student's%20t-test%20Hypothesis%20Testing%20with%20Scipy.ipynb)
+* [Normality Checks Beyond the Histogram](https://github.com/zakariajaadi/data-science-portofolio/blob/58336aef01c24c37aed47c36cd1d26705796aa62/Normality%20Beyond%20the%20Histogram.ipynb)
 
 <h4>Model monitoring :</h4>
 
 * [Data drift detection with deepchecks notebook ](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Data%20Drift%20Detection%20With%20DeepCheck.ipynb) (Opens in Colab)
 
 
-<h4> Time series forcasting :</h4>
+<!--  <h4> Time series forcasting :</h4>
 
-* [ LVMH Stock's opening price forecasting using LSTM on a multivariate time series](https://github.com/zakariajaadi/image-classification)
+* [ LVMH Stock's opening price forecasting using LSTM on a multivariate time series](https://github.com/zakariajaadi/image-classification) 
 
-<h4> Neural networks :</h4>
+# <h4> Neural networks :</h4>
 
-* [Image binary classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
+# * [Image binary classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
+-->
 
 
 <h3>Check out my latest articles:</h3>
