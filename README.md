@@ -19,7 +19,7 @@
 
 <h3>About me:</h3>
 
-Welcome to my data science portfolio! This repository showcases my work in data science, machine learning, and MLOps. You'll find Jupyter notebooks and projects demonstrating various techniques, analyses, and real-world applications.
+Welcome to my data science portfolio! I’m a graduate of prestigious institutions, including Paris Dauphine University and the National Institute of Statistics and Applied Economics. With solid experience in machine learning and data science, this repository showcases my work in these fields, as well as MLOps. You'll find Jupyter notebooks and projects demonstrating various techniques, analyses, and real-world applications.
 
 
 
