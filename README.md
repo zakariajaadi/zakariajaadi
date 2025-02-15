@@ -31,7 +31,7 @@ Welcome to my data science portfolio! I’m a graduate of Paris Dauphine Univers
 
 <h4>Statistics :</h4>
 
-* [Student's t-test Hypothesis Testing with Scipy](https://github.com/zakariajaadi/data-science-portofolio/blob/a77772b138f858d2ad1ae97fb6f557d7d10b494b/Student's%20t-test%20Hypothesis%20Testing%20with%20Scipy.ipynb)
+* [Hypothesis Testing: Student's One-Sample t-test with Scipy](https://github.com/zakariajaadi/data-science-portofolio/blob/a77772b138f858d2ad1ae97fb6f557d7d10b494b/Student's%20t-test%20Hypothesis%20Testing%20with%20Scipy.ipynb)
 * [Normality Checks Beyond the Histogram](https://github.com/zakariajaadi/data-science-portofolio/blob/58336aef01c24c37aed47c36cd1d26705796aa62/Normality%20Beyond%20the%20Histogram.ipynb)
 
 <h4>Model monitoring :</h4>
