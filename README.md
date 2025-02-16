@@ -25,6 +25,10 @@ Welcome to my data science portfolio! I’m a graduate of Paris Dauphine Univers
 
 <h3>Projects in this portfolio:</h3>
 
+<h4> Neural networks</h4>
+
+* [Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Opening Price](https://github.com/zakariajaadi/image-classification) 
+
 <h4>Optimization :</h4>
 
 * [Gradient Descent algorithm notebook](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb) (Opens in Colab)
@@ -38,14 +42,9 @@ Welcome to my data science portfolio! I’m a graduate of Paris Dauphine Univers
 
 * [Data drift detection with deepchecks notebook ](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Data%20Drift%20Detection%20With%20DeepCheck.ipynb) (Opens in Colab)
 
+ <!-- <h4> Neural networks :</h4>
 
-<!--  <h4> Time series forcasting :</h4>
-
-* [ LVMH Stock's opening price forecasting using LSTM on a multivariate time series](https://github.com/zakariajaadi/image-classification) 
-
-# <h4> Neural networks :</h4>
-
-# * [Image binary classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
+ * [Image binary classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
 -->
 
 
