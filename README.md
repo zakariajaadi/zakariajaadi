@@ -27,16 +27,16 @@ Welcome to my data science portfolio! I’m a graduate of Paris Dauphine Univers
 
 <h4> Neural networks</h4>
 
-* [Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Opening Price](https://github.com/zakariajaadi/data-science-portofolio/blob/733cdd17f7f657350e6cbaf773e644395ee9b846/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb) 
-
+* [Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Opening Price](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb) 
+https://github.com/<your_username>/<your_repo>/blob/main/<path_to_notebook>.ipynb
 <h4>Optimization :</h4>
 
 * [Gradient Descent from Scratch: A Visual Walkthrough](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb) (Opens in Colab)
 
 <h4>Statistics :</h4>
 
-* [Hypothesis Testing: Student's One-Sample t-test with Scipy](https://github.com/zakariajaadi/data-science-portofolio/blob/a77772b138f858d2ad1ae97fb6f557d7d10b494b/Student's%20t-test%20Hypothesis%20Testing%20with%20Scipy.ipynb)
-* [Normality Checks Beyond the Histogram](https://github.com/zakariajaadi/data-science-portofolio/blob/58336aef01c24c37aed47c36cd1d26705796aa62/Normality%20Beyond%20the%20Histogram.ipynb)
+* [Hypothesis Testing: Student's One-Sample t-test with Scipy](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Student's%20t-test%20Hypothesis%20Testing%20with%20Scipy.ipynb)
+* [Normality Checks Beyond the Histogram](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Normality%20Beyond%20the%20Histogram.ipynb)
 
 <h4>Model monitoring :</h4>
 
