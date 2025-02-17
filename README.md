@@ -31,7 +31,7 @@ Welcome to my data science portfolio! I’m a graduate of Paris Dauphine Univers
 
 <h4>Optimization :</h4>
 
-* [Gradient Descent algorithm notebook](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb) (Opens in Colab)
+* [Gradient Descent from Scratch: A Visual Walkthrough](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb) (Opens in Colab)
 
 <h4>Statistics :</h4>
 
