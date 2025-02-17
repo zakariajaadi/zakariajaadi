@@ -27,7 +27,7 @@ Welcome to my data science portfolio! I’m a graduate of Paris Dauphine Univers
 
 <h4> Neural networks</h4>
 
-* [Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Opening Price](https://github.com/zakariajaadi/image-classification) 
+* [Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Opening Price](https://github.com/zakariajaadi/data-science-portofolio/blob/733cdd17f7f657350e6cbaf773e644395ee9b846/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb) 
 
 <h4>Optimization :</h4>
 
