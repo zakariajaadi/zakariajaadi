@@ -22,11 +22,7 @@
 Welcome to my data science portfolio! I’m a graduate of Paris Dauphine University and the National Institute of Statistics and Applied Economics, with 7+ years of solid experience in machine learning, data science, and MLOps. this repository showcases my work in these fields. You'll find Jupyter notebooks and projects demonstrating various techniques, analyses, and real-world applications. Feel free to explore them, and don’t hesitate to reach out if you’d like to collaborate or discuss how I can contribute to your team
 
 
- <a href="https://example.com" target="_blank">Open in New Window</a>
-
-
-
-<h3>Projects in this portfolio:</h3>
+<h3>Projects in this portfolio: 💼 </h3>
 
 <h4> Neural networks</h4>
 
@@ -51,7 +47,7 @@ Welcome to my data science portfolio! I’m a graduate of Paris Dauphine Univers
 -->
 
 
-<h3>Check out my latest articles:</h3>
+<h3>Check out my latest articles: 📚 </h3>
 
 * [A Step-by-Step Explanation of Principal Component Analysis](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
 * [Using Hypothesis Testing to Evaluate Correlation Significance](https://medium.com/towards-data-science/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8)
