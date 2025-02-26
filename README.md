@@ -26,7 +26,7 @@ Welcome to my data science portfolio! I’m a graduate of Paris Dauphine Univers
 
 <h4>MLOps</h4>
 
-* [Fully Containerized End-to-End Machine Learning Pipeline for Wine Quality Prediction | MLOps Best Practices](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md) 
+* [Fully Containerized End-to-End ML Pipeline for Wine Quality Prediction | MLOps Best Practices](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md) 
 
 <h4> Neural networks</h4>
 
