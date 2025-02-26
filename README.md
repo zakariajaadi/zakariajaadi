@@ -28,7 +28,7 @@ Welcome to my data science portfolio! I’m a graduate of Paris Dauphine Univers
 
 * [Fully Containerized End-to-End ML Pipeline for Wine Quality Prediction | MLOps Best Practices](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md) 
 
-<h4> Neural networks</h4>
+<h4> Neural Networks</h4>
 
 * [Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Opening Price](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb)
 
