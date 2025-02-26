@@ -32,26 +32,25 @@ Welcome to my data science portfolio! I’m a graduate of Paris Dauphine Univers
 
 * [Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Opening Price](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb)
 
-<h4>Optimization :</h4>
+<h4>Optimization</h4>
 
 * [Gradient Descent from Scratch: A Visual Walkthrough](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb) (Opens in Colab)
 
-<h4>Statistics :</h4>
+<h4>Statistics</h4>
 
 * [Hypothesis Testing: Student's One-Sample t-test with Scipy](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Student's%20t-test%20Hypothesis%20Testing%20with%20Scipy.ipynb)
 * [Normality Checks Beyond the Histogram](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Normality%20Beyond%20the%20Histogram.ipynb)
 
-<h4>Model monitoring :</h4>
+<h4> Model monitoring </h4>
 
 * [Data drift detection with deepchecks notebook ](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Data%20Drift%20Detection%20With%20DeepCheck.ipynb) (Opens in Colab)
 
- <!-- <h4> Neural networks :</h4>
+ <!-- <h4> Neural networks </h4>
 
  * [Image binary classification with CNN and Transfer Learning using InceptionV3 ](https://github.com/zakariajaadi/image-classification)
 -->
 
-
-<h3>Check out my latest articles: 📚 </h3>
+<h3> Check out my latest articles: 📚 </h3>
 
 * [A Step-by-Step Explanation of Principal Component Analysis](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
 * [Using Hypothesis Testing to Evaluate Correlation Significance](https://medium.com/towards-data-science/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8)
