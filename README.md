@@ -23,7 +23,7 @@
 <h2>About Me 🧑‍💻</h2>
 
 <p>
-  Hello! I'm Zakaria, a data scientist and ML engineer with over 7 years of hands-on experience in building machine learning models, and deploying scalable ML systems. I hold degrees from Paris Dauphine University and the National Institute of Statistics and Applied Economics. 
+  Hello! I'm Zakaria, a data scientist and ML engineer with over 7 years of hands-on experience in building machine learning models, and deploying scalable ML pipelines. I hold degrees from Paris Dauphine University and the National Institute of Statistics and Applied Economics. 
   This portfolio is a curated collection of my projects, showcasing my journey in transforming data into actionable insights. Whether it's building end-to-end MLOps pipelines or diving deep into data science analysis, I'm passionate about leveraging data to solve real-world problems. Let's connect and explore the possibilities!
 </p>
 
