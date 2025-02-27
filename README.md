@@ -31,7 +31,7 @@
 
 <h3>🤖 MLOps</h3>
 
-* **[Fully Containerized End-to-End ML Pipeline for Wine Quality Prediction](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)** - Implementing MLOps best practices for robust and scalable ML deployments.
+* **[Fully Containerized End-to-End ML Pipeline for Wine Quality Prediction](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)** - Implementing MLOps best practices.
 
 <h3>🧠 Neural Networks</h3>
 
