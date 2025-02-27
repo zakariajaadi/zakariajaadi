@@ -35,7 +35,7 @@
 
 <h3>🧠 Neural Networks</h3>
 
-* **[Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Opening Price](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb)** - Leveraging LSTM networks for accurate time series predictions.
+* **[Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Price](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb)** - Leveraging LSTM networks for accurate time series predictions.
 
 <h3>🎯 Optimization</h3>
 
