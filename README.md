@@ -22,28 +22,28 @@
 Welcome to my data science portfolio! I’m a graduate of Paris Dauphine University and the National Institute of Statistics and Applied Economics, with 7+ years of solid experience in machine learning, data science, and MLOps. this repository showcases my work in these fields. You'll find Jupyter notebooks and projects demonstrating various techniques, analyses, and real-world applications. Feel free to explore them, and don’t hesitate to reach out if you’d like to collaborate or discuss how I can contribute to your team
 
 
-<h3>Projects in this portfolio: 💼 </h3>
+<h3>Projects in this portfolio 📂  </h3>
 
-<h4>MLOps</h4>
+<h4> 🤖 MLOps</h4>
 
 * [Fully Containerized End-to-End ML Pipeline for Wine Quality Prediction](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)  (with MLOps best paractices)
 
-<h4> Neural Networks</h4>
+<h4> 🧠 Neural Networks</h4>
 
-* [Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Opening Price](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb)
+* [Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Opening Price](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb) (Notebook)
 
-<h4>Optimization</h4>
+<h4> 🎯 Optimization</h4>
 
-* [Gradient Descent from Scratch: A Visual Walkthrough](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb) (Opens in Colab)
+* [Gradient Descent from Scratch: A Visual Walkthrough](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb) (Colab)
 
-<h4>Statistics</h4>
+<h4> 📊 Statistics</h4>
 
-* [Hypothesis Testing: Student's One-Sample t-test with Scipy](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Student's%20t-test%20Hypothesis%20Testing%20with%20Scipy.ipynb)
-* [Normality Checks Beyond the Histogram](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Normality%20Beyond%20the%20Histogram.ipynb)
+* [Hypothesis Testing: Student's One-Sample t-test with Scipy](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Student's%20t-test%20Hypothesis%20Testing%20with%20Scipy.ipynb) (Notebook)
+* [Normality Checks Beyond the Histogram](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Normality%20Beyond%20the%20Histogram.ipynb) (Notebook)
 
-<h4> Model monitoring </h4>
+<h4> 🕵🏼‍♂️ Model monitoring </h4>
 
-* [Data drift detection with deepchecks notebook ](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Data%20Drift%20Detection%20With%20DeepCheck.ipynb) (Opens in Colab)
+* [Data drift detection with deepchecks notebook ](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Data%20Drift%20Detection%20With%20DeepCheck.ipynb) (Colab)
 
  <!-- <h4> Neural networks </h4>
 
