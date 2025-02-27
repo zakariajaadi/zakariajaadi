@@ -39,7 +39,7 @@
 
 <h3>🎯 Optimization</h3>
 
-* **[Gradient Descent from Scratch: A Visual Walkthrough](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb)** - Understanding and visualizing the core of optimization algorithms.
+* **[Gradient Descent from Scratch: A Visual Walkthrough](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb)** - Understanding and visualizing the core of Gradient Descent algorithms.
 
 <h3>📊 Statistics</h3>
 
