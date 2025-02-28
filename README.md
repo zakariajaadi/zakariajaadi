@@ -31,7 +31,7 @@
 
 <h3>🤖 MLOps</h3> 
 
-* **[Industrializing a Machine Learning model with MLOps](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)** - Implementing MLOps best practices.
+* **[Industrializing a Machine Learning model with MLOps](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)** - end-to-end ML project.
 
 <h3>🧠 Neural Networks</h3>
 
