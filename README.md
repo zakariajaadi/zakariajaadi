@@ -29,9 +29,9 @@
 
 <h2>Portfolio Highlights 📂</h2>
 
-<h3>🤖 MLOps</h3>
+<h3>🤖 MLOps</h3> 
 
-* **[Fully Containerized End-to-End ML Pipeline for Wine Quality Prediction](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)** - Implementing MLOps best practices.
+* **[Industrializing a Machine Learning model with MLOps](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)** - Implementing MLOps best practices.
 
 <h3>🧠 Neural Networks</h3>
 
