@@ -39,7 +39,8 @@
 
 <h3> 📜 LLMs </h3> 
 
-* coming soon 🔥 
+* **[Fine-tuning BERT for Phishing URL identification]()** - Leveraging BERT for detecting unsafe links.
+ 🔥 
 
 <h3>🎯 Optimization</h3>
 
