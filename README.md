@@ -39,7 +39,7 @@
 
 <h3> 📜 LLMs </h3> 
 
-* **[Fine-tuning BERT for Phishing URL identification]()** - Leveraging Hugging Face's BERT model for detecting unsafe links.
+* **[Fine-tuning BERT for Phishing URL identification](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Phishing%20Detection%20Hugging%20Face.ipynb)** - Leveraging Hugging Face's BERT model for detecting unsafe links.
  🔥 
 
 <h3>🎯 Optimization</h3>
