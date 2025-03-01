@@ -33,14 +33,13 @@
 
 * **[Industrializing a Machine Learning model with MLOps](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)** - end-to-end ML project.
 
+<h3> 📜 LLMs </h3> 
+
+* **[Fine-tuning BERT for Phishing URL Detection](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Phishing%20Detection%20Hugging%20Face.ipynb)** - Leveraging Hugging Face transformers for Phishing detection. 
+ 
 <h3>🧠 Neural Networks</h3>
 
 * **[Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Price](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb)** - Leveraging LSTM networks for accurate time series predictions.
-
-<h3> 📜 LLMs </h3> 
-
-* **[Fine-tuning BERT for Phishing URL identification](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Phishing%20Detection%20Hugging%20Face.ipynb)** - Leveraging Hugging Face's BERT model for detecting unsafe links.
- 🔥 
 
 <h3>🎯 Optimization</h3>
 
