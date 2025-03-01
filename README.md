@@ -37,6 +37,10 @@
 
 * **[Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Price](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb)** - Leveraging LSTM networks for accurate time series predictions.
 
+<h3> 📜 LLMs </h3> 
+
+* coming soon 🔥 
+
 <h3>🎯 Optimization</h3>
 
 * **[Gradient Descent from Scratch: A Visual Walkthrough](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/Gradient%20Descent%20Algorithm.ipynb)** - Understanding and visualizing the core of Gradient Descent algorithm.
