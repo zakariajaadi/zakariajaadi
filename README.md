@@ -31,7 +31,7 @@
 
 <h3>🤖 MLOps</h3> 
 
-* **[Industrializing a Machine Learning model with MLOps](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)** - end-to-end ML project.
+* **[Industrializing a Machine Learning model with MLOps](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)** - An end-to-end ML project.
 
 <h3> 📜 LLMs </h3> 
 
@@ -39,7 +39,7 @@
  
 <h3>🧠 Neural Networks</h3>
 
-* **[Multivariate Time Series Forecasting with LSTM: Forecasting LVMH Stock Price](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb)** - Leveraging LSTM networks for accurate time series predictions.
+* **[LSTM-Powered LVMH Stock Price Forecasting: A Multivariate Time Series Approach](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb)** - Leveraging LSTM networks for accurate time series predictions.
 
 <h3>🎯 Optimization</h3>
 
