@@ -33,7 +33,7 @@
 
 * **[Industrializing a Machine Learning model with MLOps](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)** - A complete end-to-end ML project.
 
-<h3> 📜 LLMs </h3> 
+<h3> 📜 NLP & LLMs </h3> 
 
 * **[Fine-tuning BERT for Phishing URL Detection](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Phishing%20Detection%20Hugging%20Face.ipynb)** - Leveraging Hugging Face transformers for Phishing detection. 
  
