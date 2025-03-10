@@ -37,7 +37,7 @@
 
 * **[Fine-tuning BERT for Phishing URL Detection](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Phishing%20Detection%20Hugging%20Face.ipynb)** - Leveraging Hugging Face transformers for Phishing detection.
 
-* **[AI-Powered Medical Chatbot with Mistral 7B Instruct](https://github.com/zakariajaadi/data-science-portofolio/blob/main/mistral_7B_medical_assistant_chatbot.ipynb)** - Harnessing the power of Mistral 7B Instruct for smarter healthcare conversations.
+* **[Building a Healthcare Chatbot with Mistral and Gradio UI](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/mistral_7b_instruct_medical_chatbot.ipynb)** - Harnessing the power of AI and LLMs to build intelligent, interactive chatbots
  
 <h3>🧠 Neural Networks</h3>
 
