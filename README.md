@@ -39,7 +39,7 @@
 
 * **[Building a Healthcare Chatbot with Mistral and Gradio UI](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/mistral_7b_instruct_medical_chatbot.ipynb)** - Harnessing the power of AI and LLMs to build intelligent, interactive chatbots
  
-<h3>🧠 Neural Networks</h3>
+<h3> ⏳ Time series </h3>
 
 * **[LSTM-Powered LVMH Stock Price Forecasting: A Multivariate Time Series Approach](https://github.com/zakariajaadi/data-science-portofolio/blob/main/LVMH%20stock%20price%20prediction%20with%20LSTM.ipynb)** - Leveraging LSTM networks for accurate time series predictions.
 
