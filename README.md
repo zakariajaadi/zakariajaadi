@@ -38,6 +38,8 @@
 * **[Fine-tuning BERT for Phishing URL Detection](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Phishing%20Detection%20Hugging%20Face.ipynb)** - Leveraging Hugging Face transformers for Phishing detection.
 
 * **[Building a Healthcare Chatbot with Mistral and Gradio UI](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/mistral_7b_instruct_medical_chatbot.ipynb)** - Harnessing the power of AI and LLMs to build intelligent, interactive chatbots
+
+* **[Byte Pair Encoding (BPE) Tokenizer from Scratch](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Byte_Pair_Encoding_Algorithm_from_scratch.ipynb)** - a key tokenization method widely used in LLMs like ChatGPT to efficiently process text data.
  
 <h3> ⏳ Time series </h3>
 
