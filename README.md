@@ -39,6 +39,8 @@
 
 * **[Building a Healthcare Chatbot with Mistral and Gradio UI](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/mistral_7b_instruct_medical_chatbot.ipynb)** - Harnessing the power of AI and LLMs to build intelligent, interactive chatbots
 
+* **[Knowledge Distillation for BERT on IMDB Sentiment Analysis](https://github.com/zakariajaadi/data-science-portofolio/blob/main/bert-imdb-knowledge-distillation.ipynb)** - Compressing LLMs to create lightweight models optimized for mobile and edge deployment
+  
 * **[Byte Pair Encoding (BPE) Tokenizer from Scratch](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Byte_Pair_Encoding_Algorithm_from_scratch.ipynb)** - a key tokenization method widely used in LLMs like ChatGPT to efficiently process text data.
  
 <h3> ⏳ Time series </h3>
