@@ -35,6 +35,8 @@
 
 <h3> 📜 NLP & LLMs </h3> 
 
+* **[Building a Multi-Agent LLM Workflow that Researches, Validates, and Writes Reports Like a Pro](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/multi_llm_agent_workflow_reports_generation.ipynb)** - Agentic AI with LlamaIndex and Gemini
+
 * **[Fine-tuning BERT for Phishing URL Detection](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Phishing%20Detection%20Hugging%20Face.ipynb)** - Leveraging Hugging Face transformers for Phishing detection.
 
 * **[Building a Financial Analyst chatbot with an advanced RAG](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/financial-analyst-chatbot-with-rag.ipynb)** - Augmenting a Chatbot with Retrieval Augmented Generation (RAG) to analyze LVMH finances.
