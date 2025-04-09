@@ -33,7 +33,7 @@
 
 * **[Industrializing a Machine Learning model with MLOps](https://github.com/zakariajaadi/WinePredictionMlops/blob/main/README.md)** - A complete end-to-end ML project.
 
-<h3> 📜 NLP & LLMs </h3> 
+<h3> 📜 LLMs </h3> 
 
 * **[Building a Multi-Agent LLM Workflow that Researches, Validates, and Writes Reports Like a Pro](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/multi_llm_agent_workflow_reports_generation.ipynb)** - Agentic AI with LlamaIndex and Gemini
 
