@@ -51,7 +51,7 @@
 * **👨‍🎓 [Knowledge Distillation for BERT on IMDB Sentiment Analysis](https://github.com/zakariajaadi/data-science-portofolio/blob/main/bert-imdb-knowledge-distillation.ipynb)**  </br> Compressing LLMs to create lightweight models optimized for mobile and edge deployment
   
 * **✂️ [Byte Pair Encoding (BPE) Tokenizer from Scratch](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Byte_Pair_Encoding_Algorithm_from_scratch.ipynb)** 
- </br> a key tokenization method widely used in LLMs like GPT to efficiently process text data.
+ </br> A key tokenization method widely used in LLMs like GPT to efficiently process text data.
  
 <h3> ⏳ Time series </h3>
 
