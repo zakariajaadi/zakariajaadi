@@ -38,9 +38,9 @@
 * **[Multi-Agent LLM Workflow that Researches, Validates, and Writes Reports Like a Pro](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/multi_llm_agent_workflow_reports_generation.ipynb)** </br>
    <span style="font-size: 0.4em;">Agentic AI with LlamaIndex and Gemini.</span>
 
-<h3> 💬 Chatbots and RAG  </h3> 
+<h3> 💬 LLM Chatbots and RAG  </h3> 
 
-* **📊 [Financial Analyst Chatbot with an advanced RAG](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/financial-analyst-chatbot-with-rag.ipynb)** </br> Augmenting a Chatbot with Retrieval Augmented Generation (RAG) to analyze LVMH finances.
+* **📊 [Financial Analyst Chatbot with an Advanced RAG](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/financial-analyst-chatbot-with-rag.ipynb)** </br> Augmenting a Chatbot with Retrieval Augmented Generation (RAG) to analyze LVMH finances.
 
 * **🩺 [Healthcare Assistant Chatbot with Mistral and Gradio UI](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/mistral_7b_instruct_medical_chatbot.ipynb)** </br> Harnessing the power of AI and LLMs to build intelligent, interactive chatbots.
 
