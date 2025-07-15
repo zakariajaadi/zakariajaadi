@@ -31,7 +31,7 @@
 
 <h3>🚀 MLOps</h3> 
 
-* **[Industrializing a Machine Learning Model with MLOps](https://github.com/zakariajaadi/wine-prediction-mlops/blob/main/README.md)** </br> A complete end-to-end ML project. ( if you're an MLOps enthusiast you're gonna love it ❤️ )
+* **[Industrializing a Machine Learning Model with MLOps](https://github.com/zakariajaadi/wine-prediction-mlops/blob/main/README.md)** </br> A complete end-to-end ML project. ( if you're a MLOps enthusiast you're gonna love it ❤️ )
   
 <h3> 🤖 Agentic AI </h3> 
 
