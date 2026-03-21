@@ -48,7 +48,7 @@
 
 * **🛡️ [Fine-tuning BERT for Phishing URL Detection](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Phishing%20Detection%20Hugging%20Face.ipynb)**  </br>  Leveraging Hugging Face transformers for classification. 
 
-* **👨‍🎓 [Knowledge Distillation for BERT on IMDB Sentiment Analysis](https://github.com/zakariajaadi/data-science-portofolio/blob/main/bert-imdb-knowledge-distillation.ipynb)**  </br> Compressing LLMs to create lightweight models optimized for mobile and edge deployment
+* **👨‍🎓 [Knowledge Distillation for BERT on IMDB Sentiment Analysis](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/bert-imdb-knowledge-distillation.ipynb)**  </br> Compressing LLMs to create lightweight models optimized for mobile and edge deployment
   
 * **✂️ [Byte Pair Encoding (BPE) Tokenizer from Scratch](https://github.com/zakariajaadi/data-science-portofolio/blob/main/Byte_Pair_Encoding_Algorithm_from_scratch.ipynb)** 
  </br> A key tokenization method widely used in LLMs like GPT to efficiently process text data.
