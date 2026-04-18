@@ -40,7 +40,7 @@
 
 <h3> 💬 LLM Chatbots and RAG  </h3> 
 
-* **📊 [Financial Analyst Chatbot with an Advanced RAG](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/financial-analyst-chatbot-with-rag.ipynb)** </br> Augmenting a Chatbot with Retrieval Augmented Generation (RAG) to analyze LVMH finances.
+* **📊 [Financial Analyst RAG Chatbot](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/financial-analyst-chatbot-with-rag.ipynb)** </br> Augmenting a Chatbot with Retrieval Augmented Generation (RAG) to analyze LVMH finances.
 
 * **🩺 [Healthcare Assistant Chatbot with Mistral and Gradio UI](https://colab.research.google.com/github/zakariajaadi/data-science-portofolio/blob/main/mistral_7b_instruct_medical_chatbot.ipynb)** </br> Harnessing the power of AI and LLMs to build intelligent, interactive chatbots.
 
